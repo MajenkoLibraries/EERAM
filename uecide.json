@@ -1,0 +1,18 @@
+{
+    "name": "EERAM",
+    "provides": "EERAM.h",
+    "license": "LICENSE.md",
+    "readme": "README.md",
+    "description": "47L16 EERAM I2C Library",
+    "category": "Storage",
+    "subcategory": "EEPROM",
+    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
+    "version": "1.0.0",
+    "family": "all",
+    "core": "all",
+    "install": {
+        "examples": "/",
+        "EERAM.cpp": "/",
+        "EERAM.h": "/"
+    }
+}
